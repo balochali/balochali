@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali Baloch
+- <h1>👋 I’m Ali Baloch</h1>
 
 - I'm highly motivated computer science student from Sukkur IBA University I belive that programming comes from learning and solving challenging tasks, through online platforms and working among experts developers.  
 
